@@ -7,7 +7,7 @@
  */
 :root {
   --header-color: #203744;
-  --blue-color: #18D766;
+  --blue-color: #22A4FD;
   --text-color: #203744;
   --light-color: #F2F2F2;
   --white-color: #FFFFFF;
@@ -262,7 +262,7 @@ h2.title {
 .text code {
   padding: 20px !important; }
   .text code a {
-    color: #18D766 !important; }
+    color: #22A4FD !important; }
 
 .colorbg .title {
   color: var(--white-color) !important; }
@@ -481,7 +481,7 @@ body {
     border: 0;
     outline: 0;
     cursor: pointer;
-    color: #18D766;
+    color: #22A4FD;
     transform: scale(0.9999);
     transition: color 0.2s ease, opacity 0.2s ease, transform 0.2s ease;
     z-index: 2;
@@ -500,7 +500,7 @@ body {
     width: 2.6em;
     height: 0.5em;
     border-radius: 0.25em;
-    background-color: #18D766;
+    background-color: #22A4FD;
     transition: all 0.15s ease, background-color 0.8s ease;
     transform-origin: 0.2em 50%;
     will-change: transform; }
@@ -652,7 +652,7 @@ body {
   display: block;
   height: 100%;
   width: 0px;
-  background-color: #18D766;
+  background-color: #22A4FD;
   transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985); }
 
 /*********************************************
